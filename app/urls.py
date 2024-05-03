@@ -2,5 +2,5 @@ from django.urls import path
 from app import views
 
 urlpatterns = [
-    path('ping', views.ping_pong),
+    path('report', views.generateReport),
 ]

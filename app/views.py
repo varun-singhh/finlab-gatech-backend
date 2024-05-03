@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def ping_pong(request):
+def generateReport(request):
     year = request.GET.get("year")
     ticker = request.GET.get("ticker")
 
