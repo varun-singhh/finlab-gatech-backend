@@ -1,5 +1,5 @@
 ### Demo Link: https://drive.google.com/file/d/1fELq8cEhtierZCCewW-BLA5GNJ_CLwbv/view?usp=sharing
-### App Backend Github Repo: https://github.com/varun-singhh/finlab-gatech-frontend
+### App Frontend Github Repo: https://github.com/varun-singhh/finlab-gatech-frontend
 
 # Financial Services Innovation Lab - Georgia Tech
 
